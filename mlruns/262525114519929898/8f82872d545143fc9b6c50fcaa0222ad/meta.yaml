@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262525114519929898/8f82872d545143fc9b6c50fcaa0222ad/artifacts
+end_time: 1736115783636
+entry_point_name: ''
+experiment_id: '262525114519929898'
+lifecycle_stage: active
+run_id: 8f82872d545143fc9b6c50fcaa0222ad
+run_name: Experiment 1
+run_uuid: 8f82872d545143fc9b6c50fcaa0222ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736115685349
+status: 3
+tags: []
+user_id: Amna

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/262525114519929898
+creation_time: 1736115684504
+experiment_id: '262525114519929898'
+last_update_time: 1736115684504
+lifecycle_stage: active
+name: CNN Fine-Tuning Experiments
