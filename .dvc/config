@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:\Users\Amna\Desktop\CI3\DevOps\DevOps2\Final_Homework\dvc_local_storage
+    url = C:\Users\Amna\Desktop\CI3\DevOps\DevOps2\Final_Homework\CNN_Implementation\dvc_local_storage
